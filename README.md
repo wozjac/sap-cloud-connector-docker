@@ -1,5 +1,12 @@
 # SAP Cloud Connector in Docker
 
+Forked from https://github.com/nzamani/sap-cloud-connector-docker
+
+This version has https disabled, due to issues reported 
+- https://github.com/nzamani/sap-cloud-connector-docker/issues/18
+- https://github.com/SAP-samples/sap-devtoberfest-2020/issues/45
+---
+
 Easily setup SAPCC in docker.
 
 See my YouTube video for additional details: [Installing SAP Cloud Connector (SAPCC) into Docker and connecting it to SAP Cloud Platform (SAPCP)](https://www.youtube.com/watch?v=9uU1ny-0iNE)
